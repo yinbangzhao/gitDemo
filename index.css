@@ -1,11 +1,11 @@
-input{
-    width: 100px;
+div{
+    color: red;
     height: 200px;
-    user-select:none;
+    width: 100px;
 }
 span{
-    width: 100px;
-    display: inline;
+    display:inline-block;
+    width: 200px;
     height: 100px;
-    line-height: 100px;
+    background-color: red;
 }
